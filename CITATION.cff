@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: IntelCue MCP Server
+message: >-
+  IntelCue is an AI-first market and competitive intelligence platform that
+  delivers live insights into Claude and other AI assistants via the Model
+  Context Protocol (MCP).
+type: software
+authors:
+  - name: IntelCue
+url: https://www.intelcue.ai
+repository-code: https://github.com/intelcue/intelcue-mcp
+abstract: >-
+  The IntelCue MCP server is a hosted, remote Model Context Protocol server that
+  exposes read-only market and competitive intelligence tools — trending topics,
+  competitive alerts, keywords and hashtags, influencer insights, and content
+  from newsletters, blogs, LinkedIn, news, YouTube, websites, Google Ads, and
+  patents — scoped to the authenticated IntelCue workspace.
+keywords:
+  - model context protocol
+  - mcp
+  - competitive intelligence
+  - market intelligence
+  - ai agents
+  - claude
+license: MIT
