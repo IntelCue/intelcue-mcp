@@ -66,6 +66,7 @@ All tools are read-only and automatically scoped to your workspace.
 | `get_blog_updates` | Latest posts from monitored blogs |
 | `get_linkedin_posts` | Recent posts from monitored LinkedIn profiles |
 | `get_patent_filings` | Recent patent filings and grants from monitored companies |
+| `get_front_page_brief` | The latest AI-generated weekly Front Page brief for your workspace |
 
 ## Example questions to ask your assistant
 
@@ -74,6 +75,7 @@ All tools are read-only and automatically scoped to your workspace.
 - "Which keywords are surging right now, with hashtags?"
 - "Summarize the latest newsletters and blog posts from my competitors."
 - "Have any tracked companies filed patents recently?"
+- "Pull my latest Front Page brief and summarize it."
 
 ## Learn more
 
