@@ -12,9 +12,9 @@ repository-code: https://github.com/intelcue/intelcue-mcp
 abstract: >-
   The IntelCue MCP server is a hosted, remote Model Context Protocol server that
   exposes read-only market and competitive intelligence tools — trending topics,
-  competitive alerts, keywords and hashtags, influencer insights, and content
-  from newsletters, blogs, LinkedIn, news, YouTube, websites, Google Ads, and
-  patents — scoped to the authenticated IntelCue workspace.
+  competitive alerts, keywords and hashtags, and content
+  from newsletters, blogs, news, YouTube, websites, Google Ads,
+  patents, Certificate Transparency (new subdomains), and more — scoped to the authenticated IntelCue workspace.
 keywords:
   - model context protocol
   - mcp

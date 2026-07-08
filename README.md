@@ -3,9 +3,9 @@
 **Live market & competitor intelligence inside Claude and any MCP-compatible AI assistant.**
 
 [IntelCue](https://www.intelcue.ai) is an AI-first competitive and market intelligence
-platform. It continuously monitors your sources — newsletters, blogs, LinkedIn profiles,
-news, YouTube, websites, Google Ads, patents, and SEC filings — then analyzes everything for
-trending topics, competitive moves, keywords, and influencer activity. This repository
+platform. It continuously monitors your sources — newsletters, blogs,
+news, YouTube, websites, Google Ads, patents, SEC filings, Certificate Transparency (new subdomains), and more — then analyzes everything for
+trending topics, competitive moves, and keywords. This repository
 documents the **IntelCue MCP server**, which exposes that intelligence to AI assistants via
 the [Model Context Protocol](https://modelcontextprotocol.io).
 
@@ -61,10 +61,8 @@ All tools are read-only and automatically scoped to your workspace.
 | `get_trending_topics` | Trending topics with momentum scores, change deltas, and examples |
 | `get_competitive_insights` | Competitive alerts ranked by severity |
 | `get_keywords` | Keywords & hashtags with volume and trend direction |
-| `get_influencer_insights` | Activity analysis for monitored LinkedIn profiles |
 | `get_newsletter_content` | Recent newsletter content from subscribed sources |
 | `get_blog_updates` | Latest posts from monitored blogs |
-| `get_linkedin_posts` | Recent posts from monitored LinkedIn profiles |
 | `get_patent_filings` | Recent patent filings and grants from monitored companies |
 | `get_front_page_brief` | The latest AI-generated weekly Front Page brief for your workspace |
 
